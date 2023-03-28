@@ -86,6 +86,8 @@ Uma imagem que representa esse conceito é:
 
 ![alt text](hexagonal-architecture-1.png)
 
+![alt text](hex.png)
+
 
 ## Como este projeto está organizado?
 
